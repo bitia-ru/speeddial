@@ -1,0 +1,39 @@
+body {
+  font-family: Trebuchet MS;
+  color: #333333;
+
+  padding: 0px;
+  margin: 0px;
+}
+
+.ruller {
+    display: none;
+    position: absolute;
+    left: 200px;
+    top: 0px;
+    width: 20px;
+    height: 200px;
+    background: #aaaaaa;
+}
+
+.dialbox {
+  width: 152px;
+  position: absolute;
+  padding: 24px;
+  margin: 0px;
+}
+
+.dialbox-imgdiv {
+  display: block;
+  text-align: center;
+}
+
+.dialbox-descdiv {
+  display: block;
+  text-align: center;
+}
+
+.dialbox-img {
+  width: 128px;
+  height: 128px;
+}
